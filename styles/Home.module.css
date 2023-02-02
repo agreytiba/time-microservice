@@ -24,6 +24,10 @@ min-height: 100vh;
 }
 
 /* == input ==*/
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
 .wrapper input,
 .wrapper button {
   height: 50px;
